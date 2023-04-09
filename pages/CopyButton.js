@@ -14,7 +14,7 @@ function CopyButton(props) {
 
 
   return (
-    <button  onClick={handleCopy}>
+    <button className='btn hover:grayscale' onClick={handleCopy}>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' width={20} height={20} alt='fotogmail' />
     </button>
   );
