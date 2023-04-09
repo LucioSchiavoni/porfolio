@@ -5,7 +5,7 @@ function EmailCopy() {
   const textToCopy = 'luciosc1798@gmail.com';
 
   return (
-    <div className=' p-2 m-auto w-52 h-10'>
+    <div className=''>
     
      <CopyButton  text={textToCopy} className="" />
       

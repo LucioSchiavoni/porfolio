@@ -128,7 +128,9 @@ import EmailCopy from './EmailCopy';
 
   </form>
 
-  <div className='mt-20 w-52 '>  <label className='font-mono mb-2  text-black'>Si quieres puedes copiar mi Gmail</label>
+  <div className='mt-20 w-80 bg-base-100 p-4 h-96  rounded-lg shadow-xl'>
+    <p className='mb-5 font-mono text-white'> <p className='font-mono text-white'>¡Gracias por visitar mi portafolio!</p> Espero tener la oportunidad de trabajar con su empresa en el futuro. Si tiene alguna pregunta o está interesado en conocer más sobre mi experiencia y habilidades, no dude en ponerse en contacto conmigo.</p>
+      <label className='font-mono mb-2 text-sm text-white'>Si quieres puedes copiar mi Gmail haciendo click en el boton que esta aqui abajo.</label>
  <EmailCopy/></div>
 
 </div>
