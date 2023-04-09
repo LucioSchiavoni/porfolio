@@ -1,0 +1,78 @@
+ [
+
+    {
+        "nombre":"HTML",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+        "nombre":"CSS",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+        "nombre": "Javascript",
+        "foto": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+
+    },
+    {
+        "nombre":"Node Js",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+        "nombre":"React",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+        "nombre":"Next",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    },
+    {
+        "nombre":"MySQL",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+    },
+    {
+        "nombre":"Mongo DB",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+    },
+    {
+        "nombre":"Firebase",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+    },
+    {
+        "nombre":"Bash",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"
+    },
+    {
+        "nombre":"PHP",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    },
+    {
+        "nombre":"C#",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+    },
+    {
+        "nombre":"Solidity",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
+    },
+    {
+        "nombre":"Haskell",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"
+    },
+    {
+        "nombre":"Docker",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    },
+    {
+        "nombre":"Github",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    },
+    {
+        "nombre":"Tailwind",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    },
+   
+    {
+      "nombre":"GraphQL",
+       "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"
+    }
+    ]
+
